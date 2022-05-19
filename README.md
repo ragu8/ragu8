@@ -1,12 +1,14 @@
 
 <h2 align="center"> Hello! I am Ragupathi</h2>
-<h3 align="center">Learner | Programmer</h3
+<h3 align="center">Learner | Programmer | Explorer</h3
 <div align="center">
  <br>
  <br> 
+
 ### About me
  <br>
  <br> 
+
 ### About my education
  <br>
  <br> 
@@ -27,5 +29,6 @@
 </div>
 <br>
 <br>
+
 ### Activity
- ![Snake animation](https://github.com/RAGUPATHI-M/RAGUPATHI-M/blob/output/github-contribution-grid-snake.svg)
+ ![Snake Animation](https://github.com/RAGUPATHI-M/RAGUPATHI-M/blob/output/github-contribution-grid-snake.svg)
