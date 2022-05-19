@@ -4,10 +4,10 @@
 <div align="center">
  <br>
  <br> 
-#### About me
+### About me
  <br>
  <br> 
-#### About my education
+### About my education
  <br>
  <br> 
   
@@ -25,5 +25,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RAGUPATHI-M&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RAGUPATHI-M&layout=compact&langs_count=7&theme=dracula"/>
 </div>
+<br>
+<br>
 ### Activity
  ![Snake animation](https://github.com/RAGUPATHI-M/RAGUPATHI-M/blob/output/github-contribution-grid-snake.svg)
