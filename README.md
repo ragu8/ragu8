@@ -1,6 +1,22 @@
 
-<h2 align="center">RAGUPATHI M</h2>
-<h3 align="center">Learner | Programmer | Artist | Content Creator</h3
+<h2 align="center"> Hello! I am Ragupathi</h2>
+<h3 align="center">Learner | Programmer</h3
+<div align="center">
+ <br>
+ <br> 
+#### About me
+ <br>
+ <br> 
+#### About my education
+ <br>
+ <br> 
+  
+#### Reach me on
+<div> 
+  <a href = "mailto:ragumdr2023@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
+</div>
+ <br>
+ <br>
 
 ## GitHub Stats
 ### Profile
