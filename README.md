@@ -1,8 +1,7 @@
 
 <h2 align="center"> Hello! I am Ragupathi</h2>
 <h3 align="center">Learner | Programmer | Explorer</h3
- 
- ### Languages
+### Languages
  <p align="left">  
 <a href="https://python.org/">
     <img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"/>
