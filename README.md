@@ -1,6 +1,6 @@
 
 <h2 align="center"> Hello! I am Ragupathi</h2>
-<h3 align="center">Learner | Programmer | Explorer</h3
+<h3 align="center">Learner | Programmer | Explorer</h3>
 	
 	
 ## **Languages**
