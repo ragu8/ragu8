@@ -1,34 +1,30 @@
+![img.png](img/img.png)
 
-<h2 align="center"> Hello! I am Ragupathi</h2>
-<h3 align="center">Learner | Programmer | Explorer</h3
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+### **Profile**
 <div align="center">
- <br>
- <br> 
-
-### About me
- <br>
- <br> 
-
-### About my education
- <br>
- <br> 
-  
-#### Reach me on
-<div> 
-  <a href = "mailto:ragumdr2023@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
+  <a href="https://github.com/ragu8">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ragu8&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ragu8&layout=compact&langs_count=7&theme=dracula"/>
 </div>
- <br>
- <br>
 
-## GitHub Stats
-### Profile
-<div align="center">
-  <a href="https://github.com/RAGUPATHI-M">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RAGUPATHI-M&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RAGUPATHI-M&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-<br>
-<br>
-
-### Activity
- ![Snake Animation](https://github.com/RAGUPATHI-M/RAGUPATHI-M/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/ragu8/ragu8/blob/output/github-contribution-grid-snake.gif)
