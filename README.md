@@ -1,25 +1,5 @@
 ![img.png](img/img.png)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ### **Profile**
 <div align="center">
   <a href="https://github.com/ragu8">
