@@ -22,15 +22,6 @@
 ![snake gif](https://github.com/ragu8/ragu8/blob/output/github-contribution-grid-snake.gif)
 <br>
 <br>  
-## 🔧 Tools & Technologies
 
-<code><img title="Python" height="25" src="images/python-original.svg"></code>
-<code><img title="Problem Solving" height="25" src="images/problemSolving.png"></code>
-<code><img title="HTML5" height="25" src="images/html5.svg"></code>
-<code><img title="Git" height="25" src="images/git-original.svg"></code>
-<code><img title="Visual Studio Code" height="25" src="images/vscode.png"></code>
-<code><img title="GitHub" height="25" src="images/github.svg"></code>
-<code><img title="MySQL" height="25" src="images/mysql.svg"></code>
-  
   
   
