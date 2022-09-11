@@ -4,10 +4,8 @@
   </a>
 </h1>
 
-![img.png](img/img.png)
 
-
- <img src="img/img.png" alt="Paris" class="center"> 
+ <h1 align="center"> <img src="img/img.png" alt="Paris" class="center">  </h1>
 
 <br>
 <br>
