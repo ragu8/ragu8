@@ -6,6 +6,9 @@
 
 ![img.png](img/img.png)
 
+
+ <img src="img/img.png" alt="Paris" class="center"> 
+
 <br>
 <br>
 <div align="center">
