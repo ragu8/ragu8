@@ -5,7 +5,7 @@
 </h1>
 
 
- <h1 align="center"> <img src="img/img.png" alt="Paris" class="center">  </h1>
+ <h1 align="center"> <img src="img/img.jpg" alt="Paris" class="center">  </h1>
 
 <br>
 <br>
