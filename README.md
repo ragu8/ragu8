@@ -6,7 +6,7 @@
 </h1>
 
 
- <h1 align="center"> <img src="img/img.png" alt="Paris" class="center">  </h1>  
+ <h1 align="center"> <img src="Img/img.png" alt="oooooo" class="center">  </h1>  
  
  <h1 align="center">
   <a href="https://git.io/typing-svg">
