@@ -8,7 +8,6 @@
 
  <h1 align="center"> <img src="Img/img.png" alt="oooooo" class="center">  </h1>  
  
- 
 
 ## 🏆 GitHub Trophies
 
