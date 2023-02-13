@@ -40,32 +40,30 @@
 		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
 		
 </p>
+	
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=0CF731&width=435&lines=%F0%9F%93%96Resume" alt="Typing SVG" /></a>
+
+<h1 align="center"> <img src="cv.png" alt="oooooo" class="center">  </h1>  
+
+
+
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=0CF731&width=435&lines=%F0%9F%8E%AFProjects" alt="Typing SVG" /></a>
+<b> All Repositories Private </b>
 
 
 
-<details>
-	<summary>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=0CF731&width=435&lines=%F0%9F%93%96Resume" alt="Typing SVG" /></a>
-</summary> <h1 align="center"> <img src="cv.png" alt="oooooo" class="center">  </h1>  
-</details>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-<details>
-	<summary><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=0CF731&width=435&lines=%F0%9F%8E%AFProjects" alt="Typing SVG" /></a>
- 
-</summary>  
-	<b> All Repositories Private </b>
-</details>
-
-
-
-<details>
-	<summary> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=0CF731&width=435&lines=%F0%9F%9B%A0%EF%B8%8FTools" alt="Typing SVG" /></a></a>
-	</summary>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=0CF731&width=435&lines=%F0%9F%9B%A0%EF%B8%8FTools" alt="Typing SVG" /></a>
+	
 <table><tr><td valign="top" width="25%">
 
 ## Languages 
@@ -146,14 +144,13 @@
 	
 	
 </td></tr></table> 
-</details>
+
 
  
 
-
-<details>
-	<summary> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=0CF731&width=435&lines=%F0%9F%93%91Certificates" alt="Typing SVG" /></a>
-	</summary>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=0CF731&width=435&lines=%F0%9F%93%91Certificates" alt="Typing SVG" /></a>
+	
 <table>
 	<tr><td valign="top" width="33%">
  
@@ -202,12 +199,12 @@
 </td>
 
 </tr></table> 
-	</details>
+	
 </p>
 
 
-<details>
-<summary> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=0CF731&width=435&lines=%E2%9C%A8Github_status" alt="Typing SVG" /></a></summary>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=0CF731&width=435&lines=%E2%9C%A8Github_status" alt="Typing SVG" /></a>
 <br/>
 <p align="center">
 	<a href="https://github.com/ragu8">
@@ -219,10 +216,9 @@
 	
 <br>
 </p>	
-</details>
-<details>
-<summary><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=0CF731&width=435&lines=%F0%9F%8F%86Github_trophies" alt="Typing SVG" /></a></summary>
-<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=0CF731&width=435&lines=%F0%9F%8F%86Github_trophies" alt="Typing SVG" /></a>
 <p align="center">
 	
 
@@ -231,7 +227,7 @@
 	
 <br>
 </p>	
-</details>	
+
 	
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
@@ -240,6 +236,7 @@
 	<a href="https://github.com/piyushsuthar/github-readme-quotes"> <img alt = "Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming">
 	
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 
 
