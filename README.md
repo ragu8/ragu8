@@ -8,7 +8,6 @@
 
 
 
-
 <h3 align="center">An enthusiastic ML Engineer based in Hosur 🇮🇳, with a strong passion for uncovering meaningful insights through the application of data science techniques.</h3>
 
 
