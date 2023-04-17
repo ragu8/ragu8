@@ -21,7 +21,7 @@
 
 - 🔭 Functioning as a Machine Learning Engineer for  <a href="https://galaxytechnologyservices.net/" target="blank">Galaxy Technology Services,</a> Singapore.
 
-- 🌱 I’m currently learning  <a href="https://en.wikipedia.org/wiki/Expert_system" target="blank">Expert Systems.</a>
+- 🌱 I’m currently learning  <a href="https://en.wikipedia.org/wiki/Expert_system" target="blank">Quantum Computation.</a>
 
 - 📝 I regularly write articles on [Medium.](https://medium.com/@Ragu8)
 
