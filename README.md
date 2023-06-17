@@ -45,8 +45,9 @@
 
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=0CF731&width=435&lines=%F0%9F%93%96Resume" alt="Typing SVG" /></a>
 
-<h1 align="center"> <img src="cv.png" alt="oooooo" class="center">  </h1>  
+<h1 align="center"> <img src="cv1.jpg" alt="oooooo" class="center">  </h1>  
 
+<h1 align="center"> <img src="cv2.jpg" alt="oooooo" class="center">  </h1>  
 
 
 
@@ -54,8 +55,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=0CF731&width=435&lines=%F0%9F%8E%AFProjects" alt="Typing SVG" /></a>
-<b> All Repositories Private </b>
+
 
 
 
