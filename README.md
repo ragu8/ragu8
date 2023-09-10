@@ -21,12 +21,12 @@
 
 - 🔭 Functioning as a Data Analyst for  <a href="https://galaxytechnologyservices.net/" target="blank">Galaxy Technology Services,</a> Singapore.
 
-- 🌱 I’m currently Learning <a href="https://en.wikipedia.org/wiki/Expert_system" target="blank">Quantum Computation.</a>
+- 🌱 I’m currently Learning <a href="https://en.wikipedia.org/wiki/Operations_research" target="blank">Operational Research</a>
 
 - 📝 I regularly write articles on [Medium.](https://medium.com/@Ragu8)
 
-- 💬 Query me on **Deep Learning** & **Quantum Computing**.
-- 📫 Preferred method of contact **ragu@galaxytechnologyservices.net**.
+- 💬 Query me on **Data Science** & **Operational Research**.
+- 📫 Preferred method of contact **ragu@galaxytechnologyservices.net**
 
 <h3 align="left" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
