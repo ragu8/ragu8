@@ -8,7 +8,7 @@
 
 
 
-<h3 align="center">An enthusiastic Data Analyst based in Hosur 🇮🇳, with a strong passion for uncovering meaningful insights through the application of data science techniques.</h3>
+<h3>An enthusiastic Data Analyst based in Hosur 🇮🇳, with a strong passion for uncovering meaningful insights through the application of data science techniques.</h3>
 
 
 
