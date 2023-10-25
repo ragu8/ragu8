@@ -11,10 +11,6 @@
 <h3>An enthusiastic Data Analyst based in Hosur 🇮🇳, with a strong passion for uncovering meaningful insights through the application of data science techniques.</h3>
 
 
-
-
-
-
 <a target="_blank" align="center">
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
