@@ -15,7 +15,7 @@
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- 🔭 Functioning as a Data Analyst for  <a href="https://galaxytechnologyservices.net/" target="blank">  Approlabs.</a> 
+- 🔭 Functioning as a Data Analyst for  <a href="https://approlabs.com/" target="blank">  Approlabs.</a> 
 
 - 🌱 I’m currently Learning <a href="https://en.wikipedia.org/wiki/Operations_research" target="blank">Operational Research</a>
 
