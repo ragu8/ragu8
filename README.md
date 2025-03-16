@@ -15,9 +15,9 @@
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- 🔭 Functioning as a Data Analyst for  <a href="https://approlabs.com/" target="blank">  Approlabs.</a> 
+- 🔭 Functioning as an AI Consultant 
 
-- 🌱 I’m currently Learning <a href="https://en.wikipedia.org/wiki/Operations_research" target="blank">Operational Research</a>
+- 🌱 I’m currently Learning <a href="https://en.wikipedia.org/wiki/Operations_research" target="blank">Operations Research</a>
 
 - 📝 I regularly write articles on [Medium.](https://medium.com/@Ragu8)
 
