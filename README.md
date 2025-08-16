@@ -4,7 +4,7 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?color=%2340A597&size=30&width=800&lines=Hello+World!++I'm+Ragu+👋;AI+Researcher+%7C+Consultant+%7C+Innovator;Exploring+SLMs+for+Edge+AI+and+Beyond">
+    <img src="https://readme-typing-svg.herokuapp.com?color=%2340A597&size=30&width=800&lines=Hello+World!++I'm+Ragu+👋;AI+Researcher+%7C+Consultant+%7C+Innovator;Exploring+LLMs+for+Edge+AI+and+Beyond">
   </a>
 </h1>
 
@@ -21,7 +21,7 @@ AI Researcher at <b>Ramanujan Computing Centre, Anna University</b>, focusing on
 
 - 🔭 Currently working as an **AI Consultant** across research & industry projects  
 - 🌱 Deeply exploring <a href="https://en.wikipedia.org/wiki/Operations_research" target="blank">Operations Research</a> & AI Optimization  
-- 💬 Ask me about **Data Science**, **Edge AI**, **SLMs**, and **Operations Research**  
+- 💬 Ask me about **Data Science**, **Edge AI**, **LLMs**, and **Operations Research**  
 - 📫 Reach me at: **https.ragu@gmail.com**
 
 <h3 align="left"> 
