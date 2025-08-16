@@ -11,9 +11,9 @@
 <br>
 
 <h3 align="center">
-I am an <b>AI Researcher</b> at the <b>Ramanujan Computing Centre, Anna University</b>, specializing in <b>Small Language Models (SLMs)</b> for efficient deployment on edge devices.  
-Alongside my research, I actively function as an <b>AI Consultant</b>, constantly contributing to real-world applications and advancements in AI.  
+AI Researcher at <b>Ramanujan Computing Centre, Anna University</b>, focusing on <b>Small Language Models (SLMs)</b> for edge devices and contributing as an <b>AI Consultant</b> to real-world AI solutions.  
 </h3>
+
 
 <a target="_blank" align="center">
   <img align="right" top="500" height="300" width="400" alt="AI GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
