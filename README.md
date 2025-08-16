@@ -11,7 +11,7 @@
 <br>
 
 <h3 align="center">
-AI Researcher at <b>Ramanujan Computing Centre, Anna University</b>, focusing on <b>Small Language Models (SLMs)</b> for edge devices and contributing as an <b>AI Consultant</b> to real-world AI solutions.  
+AI Researcher at <b>Ramanujan Computing Centre, Anna University</b>, focusing on <b>large Language Models (LLMs)</b> for edge devices and contributing as an <b>AI Consultant</b> to real-world AI solutions.  
 </h3>
 
 
